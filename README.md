@@ -14,3 +14,7 @@ In this second case study, you'll be analyzing [fuel economy data provided by th
 Excerpt from Wikipedia page on Fuel Economy in Automobiles:
 
 The fuel economy of an automobile is the fuel efficiency relationship between the distance traveled and the amount of fuel consumed by the vehicle. Consumption can be expressed in terms of volume of fuel to travel a distance, or the distance travelled per unit volume of fuel consumed.
+
+# Author
+
+ * [Mohamed musaad](https://www.linkedin.com/in/mohamed-musaad-aamer-a2a633202/)
