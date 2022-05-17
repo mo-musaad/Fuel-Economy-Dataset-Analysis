@@ -8,7 +8,7 @@ You will be:
 * Evaluating merge types
 * Visualizing data with more advanced tools
 ### Investigate a DatasetWelcome to the Data Analysis Process - Case Study 2
-In this second case study, you'll be analyzing fuel economy data provided by the EPA, or Environmental Protection Agency.
+In this second case study, you'll be analyzing [fuel economy data provided by the EPA](https://www.epa.gov/compliance-and-fuel-economy-data/data-cars-used-testing-fuel-economy), or Environmental Protection Agency.
 
 ### What is Fuel Economy?
 Excerpt from Wikipedia page on Fuel Economy in Automobiles:
